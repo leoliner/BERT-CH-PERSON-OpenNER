@@ -10,3 +10,8 @@
 /CCKS2019-IPRE/sent_train.txt
 /CCKS2019-IPRE/text.txt
 /.idea/workspace.xml
+/pretrain_ckpt/chinese_L-12_H-768_A-12/bert_config.json
+/pretrain_ckpt/chinese_L-12_H-768_A-12/bert_model.ckpt.data-00000-of-00001
+/pretrain_ckpt/chinese_L-12_H-768_A-12/bert_model.ckpt.index
+/pretrain_ckpt/chinese_L-12_H-768_A-12/bert_model.ckpt.meta
+/pretrain_ckpt/chinese_L-12_H-768_A-12/vocab.txt
