@@ -1,7 +1,10 @@
 # 基于OpenNRE工具集实现中文人物关系抽取
 
-使用数据集：https://github.com/buppt/ChineseNRE/issues/7 CCKS 2019 人物关系抽取，抽取出的实体间关系将被用于生成三元组构造知识图谱
+使用数据集：https://github.com/buppt/ChineseNRE/issues/7 CCKS 2019 
 
+进行人物实体的关系抽取，抽取出的实体与关系将被用于生成三元组并构造知识图谱
+
+# OpenNRE
 
 [![CircleCI](https://circleci.com/gh/thunlp/OpenNRE/tree/master.svg?style=svg)](https://circleci.com/gh/thunlp/OpenNRE/tree/master)
 
